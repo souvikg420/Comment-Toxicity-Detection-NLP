@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+nltk
+torch
+transformers==4.38.2
+datasets
+accelerate==0.27.2
+peft==0.9.0
+tensorflow
+streamlit
+matplotlib
+seaborn
